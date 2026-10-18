@@ -1,6 +1,6 @@
 # Seasonal Decomposition and AR Modelling of Pond Water Levels
 
-This repository contains my MATH3802 Time Series coursework from my BSc in Economics and Mathematics at the University of Leeds. The project applies classical time series decomposition and autoregressive modelling to monthly pond water level data from Hampshire, UK. All analysis was conducted in R.
+This  project applies classical time series decomposition and autoregressive modelling to monthly pond water level data from Hampshire, UK. All analysis was conducted in R.
 
 ## Objective
 
