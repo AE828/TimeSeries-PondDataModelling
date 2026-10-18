@@ -33,7 +33,7 @@ Decompose a monthly hydrological time series into its trend, seasonal, and stoch
 ```
 X_t = S_t + 0.6643 · Z_{t−1} + 0.2649 · Z_{t−2} + N_t
 ```
-See Full Report (Including Code) : [TIME SERIES.pdf](TIMESERIES.pdf)
+See Full Report (Including Code) : [TIME SERIES.pdf](TIME SERIES.pdf)
 Where:
 - **S_t** is the estimated seasonal component (12 monthly coefficients)
 - **Z_t** is the de-seasonalised residual at time t
